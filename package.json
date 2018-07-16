@@ -1,0 +1,24 @@
+{
+  "name": "pinyin-distance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/leefurong/pinyin-distance.git"
+  },
+  "keywords": [
+    "Chinese",
+    "Pinyin",
+    "Distance"
+  ],
+  "author": "Ben Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leefurong/pinyin-distance/issues"
+  },
+  "homepage": "https://github.com/leefurong/pinyin-distance#readme"
+}
